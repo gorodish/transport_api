@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#container {
+  width: 50%;
+  margin: auto;
+
+}
+
+#station {
+  background: ivory;
+  padding: 20px;
+  border: 1px solid lightgray;
+
+}
+
+#station h2 {
+  font-size: .8em;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+span {
+  color: red;
+}
+h2 {
+  color: #d70040;
+}
